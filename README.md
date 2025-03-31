@@ -2,8 +2,6 @@
 
 A full-stack MERN application with a responsive UI and powerful API.
 
-
-
 About This Project:
 
 - ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
@@ -15,7 +13,6 @@ About This Project:
 - 🐞 Error Handling
 
 - 🌐 Deployment
-
 
 Setup .env file
 
@@ -30,8 +27,6 @@ Run this app locally
 Start the app
 
 - npm run start
-
-
 
 ![image](https://github.com/user-attachments/assets/0272a576-15bf-4547-a8e4-3ec03f9a8e5a)
 
