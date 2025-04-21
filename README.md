@@ -1,4 +1,4 @@
-# MERN-Project_Product-Store
+<h1 align="center">MERN Crash Course 🚀</h1>
 
 A full-stack MERN application with a responsive UI and powerful API.
 
@@ -14,20 +14,27 @@ About This Project:
 
 - 🌐 Deployment
 
-Setup .env file:
+### Setup .env file
 
-- MONGO_URI=your_mongo_uri
+```shell
+MONGO_URI=your_mongo_uri
+PORT=5000
+```
 
-- PORT=5000
+### Run this app locally
 
-Run this app locally:
+```shell
+npm run build
+```
 
-- npm run build
+### Start the app
 
-Start the app:
+```shell
+npm run start
+```
 
-- npm run start
 
 ![image](https://github.com/user-attachments/assets/0272a576-15bf-4547-a8e4-3ec03f9a8e5a)
 
-Link: https://mern-project-product-store.onrender.com
+[Visit the Store](https://mern-project-product-store.onrender.com)
+
