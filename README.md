@@ -6,7 +6,7 @@ A modern, full-stack e-commerce application built with the powerful MERN stack a
 
 👉 [Visit the Store](https://mern-project-product-store.onrender.com)
 
-[![Vercel](https://img.shields.io/badge/Vercel-Deployments%20-%23000000?style=for-the-badge&logo=vercel)](https://vercel.com)
+![Backend Status](https://img.shields.io/badge/Backend-Online-brightgreen?style=for-the-badge&logo=render)
 
 ## 📦 Features:
 
