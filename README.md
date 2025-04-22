@@ -1,4 +1,4 @@
-<h1 align="center">MERN Crash Course 🚀</h1>
+<h1 align="center">MERN Product Store 🚀</h1>
 
 A full-stack MERN application with a responsive UI and powerful API.
 
