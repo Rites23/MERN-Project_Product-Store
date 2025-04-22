@@ -1,4 +1,4 @@
-<h1 align="center">🛒 MERN Product Store</h1>
+<h1 align="center">🛒 Product Store</h1>
 
 ![image](https://github.com/user-attachments/assets/0272a576-15bf-4547-a8e4-3ec03f9a8e5a)
 
