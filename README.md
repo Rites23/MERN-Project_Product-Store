@@ -4,9 +4,9 @@
 
 A modern, full-stack e-commerce application built with the powerful MERN stack and styled using Chakra UI. This app features a responsive UI, robust API functionality, and seamless MongoDB integration to manage products efficiently.
 
-👉 [Visit the Store](https://mern-project-product-store.onrender.com)
-
 ![Backend Status](https://img.shields.io/badge/Backend-Online-brightgreen?style=for-the-badge&logo=render)
+
+👉 [Visit the Store](https://mern-project-product-store.onrender.com)
 
 ## 📦 Features:
 
