@@ -6,7 +6,7 @@ A modern, full-stack e-commerce application built with the powerful MERN stack a
 
 👉 [Visit the Store](https://mern-project-product-store.onrender.com)
 
-[![UptimeRobot status](https://img.shields.io/uptimerobot/status/m790361361-60c1f9d537bb4dd7c35dbfe6?style=for-the-badge&label=Backend%20Uptime&logo=render)](https://stats.uptimerobot.com/m800386826-d1561201816f75cb55d0e4ce)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployments%20-%23000000?style=for-the-badge&logo=vercel)](https://vercel.com)
 
 ## 📦 Features:
 
